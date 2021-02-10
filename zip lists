@@ -1,0 +1,6 @@
+movie = ["Godzilla vs Kong"]
+time = ["March 31"]
+
+North_America = list(zip(movie,time))
+
+print(North_America,"Streaming on HBO Max")
