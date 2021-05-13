@@ -1,0 +1,1 @@
+In Python, the use of the keyword _**import**_ is to make code in one _**module**_ available in another. Using imports is important to the structure of the code, allowing you to maintain an organized project from start to finish.
